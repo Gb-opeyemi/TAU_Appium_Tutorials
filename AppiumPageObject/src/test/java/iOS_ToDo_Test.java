@@ -1,4 +1,6 @@
 import org.testng.annotations.Test;
+import pageObjects.CreateTaskPage;
+import pageObjects.TaskListPage;
 
 import java.net.MalformedURLException;
 
